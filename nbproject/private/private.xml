@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/login.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/KhachHangDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/controller/client/HomeServlet.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/CartDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/ProductDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/assets/fontawesome-free-6.5.2-web/LICENSE.txt</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/DonHangDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/DashboardDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/customerDetails.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/index_home.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/Cart.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/TaiKhoanDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/src/java/dao/ThongKeDao.java</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/productDetail.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/admin/custommer/index_custommer.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/register.jsp</file>
+            <file>file:/D:/Workplace/java/Web_QLBanMayTinh1/web/views/client/home/orderDetails.jsp</file>
+        </group>
+    </open-files>
+</project-private>
